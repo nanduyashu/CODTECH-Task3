@@ -1,5 +1,17 @@
 # CODTECH-Task3
 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: KOTHAPALLI SAI NANDITHA
+
+*INTERN ID*: CT04DG1495
+
+*DOMAIN*: DIGITAL MARKETING
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
 # Comprehensive SEO Strategy for Coca-Cola’s Website
 
 1. Executive Summary
