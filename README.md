@@ -132,4 +132,5 @@ This SEO strategy integrates targeted keyword planning, authoritative backlink d
 
 #Output
 
+![Image](https://github.com/user-attachments/assets/5a87f552-5395-4203-ac32-f497993c06d7)
 
